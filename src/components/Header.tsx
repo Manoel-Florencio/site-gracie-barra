@@ -44,7 +44,7 @@ const Header = () => {
               GB
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Grace Barra</h1>
+              <h1 className="text-xl font-bold text-gray-900">Grace Barra <br /> Djalma Batista</h1>
               <p className="text-sm text-gray-600">Jiu-Jitsu Academy</p>
             </div>
           </div>

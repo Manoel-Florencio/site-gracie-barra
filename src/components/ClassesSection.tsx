@@ -9,34 +9,34 @@ const ClassesSection = () => {
       age: '4-12 anos',
       description: 'Desenvolvimento de coordenação, disciplina e autoconfiança através de atividades lúdicas e técnicas adaptadas.',
       benefits: ['Disciplina e Respeito', 'Coordenação Motora', 'Autoconfiança', 'Defesa Pessoal'],
-      image: 'https://images.pexels.com/photos/7045649/pexels-photo-7045649.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=2',
+      image: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4npSnzIja9FCm-2zrzue8eC0xISnRlnV0RlNydy5GPy1Kf_Fzp6w5c4TgKSva4aEYfCMQkDHoz0y0f5Tckg3vTYUYpR0wEpY3ADoUVhuOU6fmL0lB2MixMdMJ7OYQbpqFoik-8uBi3jznHiF=s680-w680-h510-rw',
       color: 'bg-red-600'
     },
     {
       icon: Users,
       title: 'Jiu-Jitsu Adulto Iniciante',
-      age: '16+ anos',
+      age: '13+ anos',
       description: 'Introdução completa ao Jiu-Jitsu para iniciantes, focando em fundamentos, condicionamento físico e filosofia.',
       benefits: ['Fundamentos Sólidos', 'Condicionamento', 'Defesa Pessoal', 'Redução do Stress'],
-      image: 'https://images.pexels.com/photos/7045688/pexels-photo-7045688.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=2',
+      image: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrYsUA_r-9u8P-B800iKT0BJMsuDOSW7ZWRkU4kOfpSMEA4jDXgxdnKhWIn8cftJqYu5DLwN5rvOHw85OJ9sT18T6E7RTl80L2FBSTAyOEWC4CmwTNEYQvqXkdS8VeL_SCV53RZLqjzs3DO=s680-w680-h510-rw',
       color: 'bg-red-600'
     },
     {
       icon: Trophy,
       title: 'Jiu-Jitsu Adulto Avançado',
-      age: '16+ anos',
+      age: '13+ anos',
       description: 'Treinamento intensivo para praticantes experientes, com foco em competições e aperfeiçoamento técnico.',
       benefits: ['Técnicas Avançadas', 'Preparação Competitiva', 'Sparring Intenso', 'Estratégias de Luta'],
-      image: 'https://images.pexels.com/photos/7045595/pexels-photo-7045595.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=2',
+      image: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlOOLipYkj6OG6DJckd_Eb-3O3D0H7MTP0LIYn-WHGPLsArP6IYDYlCz2NzwJwoq6Dm5ZFaHGxEMuRwRkik3XeSfH0DZ4nqgB1nfIt7qULXeARphNeXkR0tYtEsc1oIdTuufVlXhKtzsQC=s680-w680-h510-rw',
       color: 'bg-red-600'
     },
     {
       icon: Shield,
       title: 'Defesa Pessoal Feminina',
-      age: '14+ anos',
+      age: '13+ anos',
       description: 'Programa específico para mulheres, focando em autodefesa, empoderamento e segurança pessoal.',
       benefits: ['Empoderamento', 'Autodefesa Prática', 'Confiança', 'Condicionamento'],
-      image: 'https://images.pexels.com/photos/7045481/pexels-photo-7045481.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=2',
+      image: 'https://graciebarra.com.br/assets/images/our-method.jpg ',
       color: 'bg-red-600'
     },
     {
@@ -45,7 +45,7 @@ const ClassesSection = () => {
       age: '16+ anos',
       description: 'Modalidade sem kimono, focando em agilidade, transições rápidas e técnicas adaptadas.',
       benefits: ['Maior Agilidade', 'Transições Rápidas', 'Preparação MMA', 'Versatilidade'],
-      image: 'https://images.pexels.com/photos/7045714/pexels-photo-7045714.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&dpr=2',
+      image: 'https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrBruN3AY85J-AdGBMcP1Ztt0LKhPq4-8oruve_brTdfdfLxnw7zXmxmbiX_9FalzgUnWnFTwcGtFRVl317GaiGCtKQPqiwyLFxfrgq0QnJbZRFnHuQn0ycRKlu4LoPyvDwBikL=s680-w680-h510-rw',
       color: 'bg-red-600'
     },
     {

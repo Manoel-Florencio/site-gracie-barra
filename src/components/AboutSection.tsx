@@ -90,7 +90,7 @@ const AboutSection = () => {
             <div className="relative">
               <div className="relative overflow-hidden rounded-2xl shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/7045522/pexels-photo-7045522.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=2"
+                  src="https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-J9wwds3lkq1pxnwkIKxlM6TTqYrEYu6yAmhqHN6jd8eYDiEU3xqTql3Nd7Dp8NMYia7zpFobRKp7qPw4Q0qhWCu8TmPNvTO6Ku3oIt8IyH_IKoAL8rofvP7xgiVwp4jT5QC-yw=s680-w680-h510-rw"
                   alt="Academia Grace Barra"
                   className="w-full h-[500px] object-cover"
                 />

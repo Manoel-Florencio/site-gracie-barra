@@ -15,7 +15,7 @@ const HeroSection = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(https://images.pexels.com/photos/7045636/pexels-photo-7045636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)'
+          backgroundImage: 'url(https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeMt21l65sTkkRxrNsmpIBbH25Uopp_NGzknGph-doPdRVpmKfNjCMRaUfHXnef6z4ezWYiifQULkwEDJpj2sO7ECHMtsaYbEPmrwgRdyaqcleJVy9QWTxdTcn_OrzeGsVdp0dCg=s680-w680-h510-rw)'
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-red-900/30"></div>
@@ -25,7 +25,7 @@ const HeroSection = () => {
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <div className="max-w-4xl mx-auto">
           {/* Badge */}
-          <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm rounded-full px-6 py-2 mb-8 border border-white/20">
+          <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-sm rounded-full px-6 py-2 mb-6 mt-8 border border-white/20">
             <Shield className="w-5 h-5 text-red-400" />
             <span className="text-sm font-medium">Maior Equipe de Jiu-Jitsu do Mundo</span>
           </div>
@@ -34,7 +34,7 @@ const HeroSection = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
             <span className="text-white">Disciplina.</span>
             <br />
-            <span className="text-red-500">Respeito.</span>
+            <span className="text-red-600">Respeito.</span>
             <br />
             <span className="text-white">Evolução.</span>
           </h1>
@@ -83,13 +83,13 @@ const HeroSection = () => {
       </div>
 
       {/* Floating Elements */}
-      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
+      {/* <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
         <div className="animate-bounce">
-          <div className="w-8 h-12 border-2 border-white/30 rounded-full flex justify-center">
+          <div className="w-8 h-12  border-2 border-white/30 rounded-full flex justify-center">
             <div className="w-1 h-3 bg-white rounded-full mt-2 animate-pulse"></div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
